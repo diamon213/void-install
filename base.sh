@@ -10,7 +10,7 @@ url=https://github.com/void-linux/void-mklive
 efi=/dev/nvme0n1p1
 root=/dev/nvme0n1p2
 hostname=thinkpad-aladin
-clock=UTC
+clock=CEST
 timezone=Europe/Zurich
 keymap=de_CH-latin1
 
