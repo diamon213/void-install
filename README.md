@@ -1,2 +1,2 @@
 # void-install
-Void Linux minimal installation script for myself
+A simple shell script to install a minimal Linux Void
